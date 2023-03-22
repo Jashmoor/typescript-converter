@@ -1,0 +1,12 @@
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\bin\Debug\net5.0\TypescriptClassConverter.deps.json
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\bin\Debug\net5.0\TypescriptClassConverter.dll
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\bin\Debug\net5.0\ref\TypescriptClassConverter.dll
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\bin\Debug\net5.0\TypescriptClassConverter.pdb
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\obj\Debug\net5.0\TypescriptClassConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\obj\Debug\net5.0\TypescriptClassConverter.AssemblyInfoInputs.cache
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\obj\Debug\net5.0\TypescriptClassConverter.AssemblyInfo.cs
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\obj\Debug\net5.0\TypescriptClassConverter.csproj.CoreCompileInputs.cache
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\obj\Debug\net5.0\TypescriptClassConverter.dll
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\obj\Debug\net5.0\ref\TypescriptClassConverter.dll
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\obj\Debug\net5.0\TypescriptClassConverter.pdb
+C:\Users\PNG Web Developer\source\repos\TypescriptClassConverter\Source\TypescriptClassConverter\obj\Debug\net5.0\TypescriptClassConverter.csproj.AssemblyReference.cache
